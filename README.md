@@ -5,7 +5,7 @@ Use run.sh to run construct the graph
 
 Returns a graph in .gfa format, dgi statistics and a node presence absence matrix.
 
-#analyse graph
+# analyse graph
 scripts contains the scripts used to analyse the pangenome graph.
 PCA_graph.py: create a PCA from the presence absence matrix
 graph_stats.py: list number of core, unique and accessory nodes and variants in the graph.
