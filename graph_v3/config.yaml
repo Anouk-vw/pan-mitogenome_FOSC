@@ -1,0 +1,9 @@
+multiple_chromosomes: 0
+pggb:
+  haplotypes: 472
+  percent_identity: 97.52379
+  poa_params: asm10
+  segment_length: 3000
+  threads: 62
+runid: mito_final_472_s3000_asm10_n486_p97523
+sample: /home/anouk/anouk2/mt_foc_2/graph_v3/all_genomes.fasta
